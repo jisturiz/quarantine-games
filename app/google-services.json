@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308139982874",
+    "firebase_url": "https://quarantine-with-friends.firebaseio.com",
+    "project_id": "quarantine-with-friends",
+    "storage_bucket": "quarantine-with-friends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308139982874:android:dea4a61112a702210d51a3",
+        "android_client_info": {
+          "package_name": "com.isturiz.quarantine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308139982874-tb9j29hf4g8f0aifbhmcjg3jo2pfd1hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0PURj5eZ6XnjilQuzOP-NNZD4UiYODnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308139982874-tb9j29hf4g8f0aifbhmcjg3jo2pfd1hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

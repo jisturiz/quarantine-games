@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quarantine with Friends</string>
+
+    <!-- Game Strings -->
+    <string name="game_player_count_no_max">%d+ players</string>
+    <string name="game_player_count_range">%1$d to %2$d players</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
